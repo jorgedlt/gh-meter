@@ -411,11 +411,6 @@ def index():
         <div class="container">
             <h1>🍅 DevMeter</h1>
             <p class="subtitle">Rate developers like Rotten Tomatoes rates movies</p>
-            <div style="background: rgba(255, 255, 255, 0.1); padding: 15px; border-radius: 8px; margin-bottom: 20px; font-size: 0.9em;">
-                <strong>⚠️ For entertainment & educational purposes only.</strong><br>
-                This tool analyzes public GitHub data and provides subjective ratings.
-                Never use as the sole factor in hiring or professional decisions.
-            </div>
 
             <form id="analyzeForm">
                 <div class="form-group">

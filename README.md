@@ -5,17 +5,6 @@
 
 Rate developers like Rotten Tomatoes rates movies! DevMeter analyzes GitHub profiles and provides a comprehensive hireability score based on activity, code quality, collaboration, consistency, expertise, and impact.
 
-## ⚠️ Important Ethical Notice
-
-**This tool is for educational and entertainment purposes only.**
-
-- **Not a hiring decision tool**: DevMeter ratings should never be used as the sole or primary factor in hiring, promotion, or any professional decisions.
-- **Biased and incomplete**: The rating algorithm is subjective and doesn't capture many important developer qualities like communication skills, problem-solving ability, or cultural fit.
-- **Public data only**: Only analyzes publicly available GitHub profile information.
-- **No discrimination**: Do not use this tool to discriminate against developers based on their GitHub activity patterns, which may be influenced by personal circumstances, work environment, or other factors beyond their control.
-
-**Use responsibly**: Consider the human behind the GitHub profile. Real developer assessment requires personal interaction and context.
-
 ## 🌟 Features
 
 - **Comprehensive Analysis**: Evaluates GitHub profiles across 6 key dimensions
