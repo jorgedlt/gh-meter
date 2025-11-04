@@ -1,5 +1,7 @@
 # 🍅 DevMeter - GitHub Developer Rating System
 
+<!-- Trigger integration tests -->
+
 [![Deploy to Google Cloud](https://github.com/jorgedlt/gh-meter/actions/workflows/deploy.yml/badge.svg)](https://github.com/jorgedlt/gh-meter/actions/workflows/deploy.yml)
 [![codecov](https://codecov.io/gh/jorgedlt/gh-meter/branch/main/graph/badge.svg)](https://codecov.io/gh/jorgedlt/gh-meter)
 
