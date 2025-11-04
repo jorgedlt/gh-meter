@@ -5,6 +5,17 @@
 
 Rate developers like Rotten Tomatoes rates movies! DevMeter analyzes GitHub profiles and provides a comprehensive hireability score based on activity, code quality, collaboration, consistency, expertise, and impact.
 
+## ⚠️ Important Ethical Notice
+
+**This tool is for educational and entertainment purposes only.**
+
+- **Not a hiring decision tool**: DevMeter ratings should never be used as the sole or primary factor in hiring, promotion, or any professional decisions.
+- **Biased and incomplete**: The rating algorithm is subjective and doesn't capture many important developer qualities like communication skills, problem-solving ability, or cultural fit.
+- **Public data only**: Only analyzes publicly available GitHub profile information.
+- **No discrimination**: Do not use this tool to discriminate against developers based on their GitHub activity patterns, which may be influenced by personal circumstances, work environment, or other factors beyond their control.
+
+**Use responsibly**: Consider the human behind the GitHub profile. Real developer assessment requires personal interaction and context.
+
 ## 🌟 Features
 
 - **Comprehensive Analysis**: Evaluates GitHub profiles across 6 key dimensions
@@ -207,6 +218,15 @@ For higher API rate limits (5,000 vs 60 requests/hour), set up a GitHub token:
 
 ## 🤝 Contributing
 
+We welcome contributions that improve the tool's accuracy, add features, or enhance its educational value. However, all contributions must align with our ethical guidelines.
+
+### Contribution Guidelines:
+1. **Ethical focus**: Ensure changes don't enable harmful use cases
+2. **Transparency**: Rating algorithms should be clear and well-documented
+3. **Bias awareness**: Consider how changes might affect different types of developers
+4. **Testing**: Maintain comprehensive test coverage
+
+### Development Process:
 1. Fork the repository
 2. Create a feature branch: `git checkout -b feature/amazing-feature`
 3. Write tests for your changes
@@ -214,6 +234,10 @@ For higher API rate limits (5,000 vs 60 requests/hour), set up a GitHub token:
 5. Commit your changes: `git commit -m 'Add amazing feature'`
 6. Push to the branch: `git push origin feature/amazing-feature`
 7. Open a Pull Request
+
+### Reporting Issues:
+- **Algorithm concerns**: If you believe the rating system is unfair, please open an issue with specific examples
+- **Ethical issues**: Report any misuse or concerning applications of this tool
 
 ## 📄 License
 
