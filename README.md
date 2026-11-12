@@ -362,3 +362,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Made with ❤️ for the developer community**
+
+## Completeness grade: A
+
+Code, tests, CI/CD workflows and the Cloud Run deployment pipeline are
+all in this repo; a fresh clone rebuilds and redeploys the service.
+The remaining fraction is live credentials and cloud state, named below.
+
+## Not in code
+
+- GitHub API tokens and GCP service credentials: GitHub Actions secrets
+  and the Google Cloud console for the gh-meter project, never in this
+  repo.
+- Live Cloud Run service state and any console-side configuration:
+  Google Cloud console is the record of truth.
